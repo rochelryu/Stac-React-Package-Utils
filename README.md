@@ -255,9 +255,9 @@ see https://developers.facebook.com/docs/facebook-login/permissions for permissi
 
   export default MyComponent;
   
+ ```
   
-  
-  # React Google Login
+# React Google Login
 
 > A Google oAUth Sign-in / Log-in Component for React
 
